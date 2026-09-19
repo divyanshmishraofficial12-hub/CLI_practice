@@ -17,3 +17,4 @@ This challenge involves investigating a relay delivery failure by analyzing syst
 <img width="1532" height="682" alt="image" src="https://github.com/user-attachments/assets/cd583c7c-ebe1-414c-94d4-57f36c84d195" />
 <img width="1535" height="678" alt="image" src="https://github.com/user-attachments/assets/4cac9560-90cd-4122-95de-1b6546f2148f" />
 <img width="1015" height="173" alt="image" src="https://github.com/user-attachments/assets/24b3c617-efc9-46ba-abd1-73f6b6b42a20" />
+<img width="1223" height="454" alt="image" src="https://github.com/user-attachments/assets/b579b12f-c835-473f-a666-39e9251700ad" />
