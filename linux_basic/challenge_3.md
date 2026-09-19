@@ -15,3 +15,4 @@ Job Code: Retrieve the job code displayed on the first line of HANDOFF.txt.
 Destination: Identify the destination listed on the final line of HANDOFF.txt.
 
 <img width="1536" height="675" alt="image" src="https://github.com/user-attachments/assets/dcd29b42-aa36-4a41-869d-c45bb2add369" />
+<img width="1532" height="678" alt="image" src="https://github.com/user-attachments/assets/f0f12cc1-6134-4e3e-a86a-34eb9adf1373" />
