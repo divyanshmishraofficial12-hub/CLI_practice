@@ -17,7 +17,8 @@ This file serves as a brief task specification for the **DISPATCH / Evidence Cou
 * **Script Location:** `~/bin/collect.sh` (or any custom helper in your personal `~/bin/` directory)
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93230b42-1214-4e2f-87f2-46a8f1579331" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea96573b-1e27-4060-b45c-207550986be9" />
+
 
 ### **Summary Description for Documentation / Write-ups**
 
