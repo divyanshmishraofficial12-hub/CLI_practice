@@ -18,4 +18,5 @@ This laboratory exercise focuses on Linux command-line basics, incident response
 <img width="1187" height="150" alt="image" src="https://github.com/user-attachments/assets/5dbe1199-c911-4bdb-a797-527a21def336" />
 <img width="1535" height="526" alt="image" src="https://github.com/user-attachments/assets/f1e67020-cfa5-4396-88c0-2e61eca00aea" />
 <img width="1215" height="210" alt="image" src="https://github.com/user-attachments/assets/eb6d8c05-5543-4d02-ac1e-f44e931db77b" />
+<img width="1535" height="735" alt="image" src="https://github.com/user-attachments/assets/4564e2c8-406e-44a0-9a86-6472af173abd" />
 
