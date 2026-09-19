@@ -13,4 +13,4 @@ This laboratory exercise focuses on Linux command-line basics, incident response
 * **Failed Job:** Identify the specific job ID that failed during the transfer operation.
 * **Attempt Count:** Determine the total number of recorded transfer attempts for the failed job.
 
-  <img width="1535" height="685" alt="image" src="https://github.com/user-attachments/assets/b45cde92-c557-4cc6-a8a3-df4fd4420272" />
+<img width="1535" height="685" alt="image" src="https://github.com/user-attachments/assets/68bc22d1-57dd-4cd9-bdaa-2b7041885d82" />
