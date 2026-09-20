@@ -17,6 +17,8 @@ During a routine security audit, a nightly vault sync process exhibited anomalou
 <img width="1149" height="680" alt="image" src="https://github.com/user-attachments/assets/22ea4f36-791c-49da-ae35-755c843e452b" />
 
 | **Privileged Entry** | SUID Helper | Identify the full path of the non-standard root-owned SUID helper binary. |
+<img width="1152" height="670" alt="image" src="https://github.com/user-attachments/assets/11eeb2ab-8a48-47f3-a8f9-f54a12f66aff" />
+
 | **Loaded Configuration** | Config Path | Trace the full path of the configuration file sourced by the helper. |
 <img width="1150" height="675" alt="image" src="https://github.com/user-attachments/assets/28aeb816-6ef2-4610-8c86-83d97ac0c2b1" />
 <img width="795" height="326" alt="image" src="https://github.com/user-attachments/assets/f46a3e7c-aaf4-47e6-87a1-0a9dbf969b36" />
