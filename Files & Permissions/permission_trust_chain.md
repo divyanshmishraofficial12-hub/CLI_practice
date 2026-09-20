@@ -23,6 +23,8 @@ During a routine security audit, a nightly vault sync process exhibited anomalou
 
 
 | **Trusted Hook** | `SYNC_HOOK` | Determine the full file path assigned to `SYNC_HOOK` within the loaded config. |
+<img width="1141" height="674" alt="image" src="https://github.com/user-attachments/assets/8b88a546-f254-4a10-a1cb-d5efd073fd46" />
+
 | **Writable Group** | Group Permissions | Identify which user group possesses write permissions over the executed hook. |
 | **Exposed Secret** | `DB_PASSWORD` | Extract the database password exposed through the hook's environment file. |
 <img width="1153" height="665" alt="image" src="https://github.com/user-attachments/assets/09ad9c47-c189-425a-9919-4290b2c367f6" />
