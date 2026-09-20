@@ -20,6 +20,8 @@ A critical payment processing worker halted after its active configuration chang
 <img width="1151" height="670" alt="image" src="https://github.com/user-attachments/assets/05ce540e-1110-42dd-b3fd-8d51032bdde8" />
 
 | **Controlling Group** | Find which group holds write permissions on the active configuration file. | Group Name |
+<img width="1147" height="678" alt="image" src="https://github.com/user-attachments/assets/25976226-4a3b-412e-8d02-792bc153ce46" />
+
 | **Unexpected Member** | Identify the account present in that group but missing from the approved roster. | Username |
 | **Writable Parent** | Locate the group-writable parent directory that permits replacing the target file. | Directory Path |
 
