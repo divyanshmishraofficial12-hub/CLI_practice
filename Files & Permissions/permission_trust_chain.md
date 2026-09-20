@@ -14,15 +14,17 @@ During a routine security audit, a nightly vault sync process exhibited anomalou
 
 | Objective | Target | Description |
 | :--- | :--- | :--- |
+<img width="1149" height="680" alt="image" src="https://github.com/user-attachments/assets/22ea4f36-791c-49da-ae35-755c843e452b" />
+
 | **Privileged Entry** | SUID Helper | Identify the full path of the non-standard root-owned SUID helper binary. |
 | **Loaded Configuration** | Config Path | Trace the full path of the configuration file sourced by the helper. |
 | **Trusted Hook** | `SYNC_HOOK` | Determine the full file path assigned to `SYNC_HOOK` within the loaded config. |
 | **Writable Group** | Group Permissions | Identify which user group possesses write permissions over the executed hook. |
 | **Exposed Secret** | `DB_PASSWORD` | Extract the database password exposed through the hook's environment file. |
+<img width="1153" height="665" alt="image" src="https://github.com/user-attachments/assets/09ad9c47-c189-425a-9919-4290b2c367f6" />
 
 ---
 
-<img width="1149" height="680" alt="image" src="https://github.com/user-attachments/assets/22ea4f36-791c-49da-ae35-755c843e452b" />
 
 
 ## 🛠️ Investigation & Commands
