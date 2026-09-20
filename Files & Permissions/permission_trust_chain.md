@@ -22,6 +22,9 @@ During a routine security audit, a nightly vault sync process exhibited anomalou
 
 ---
 
+<img width="1149" height="680" alt="image" src="https://github.com/user-attachments/assets/22ea4f36-791c-49da-ae35-755c843e452b" />
+
+
 ## 🛠️ Investigation & Commands
 
 ### 1. Identify Privileged Entry Point
