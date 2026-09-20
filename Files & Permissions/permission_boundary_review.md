@@ -23,6 +23,8 @@ A critical payment processing worker halted after its active configuration chang
 <img width="1147" height="678" alt="image" src="https://github.com/user-attachments/assets/25976226-4a3b-412e-8d02-792bc153ce46" />
 
 | **Unexpected Member** | Identify the account present in that group but missing from the approved roster. | Username |
+<img width="1148" height="670" alt="image" src="https://github.com/user-attachments/assets/4c05a5d7-2815-48a9-a3e9-4d8fa5c86b6a" />
+
 | **Writable Parent** | Locate the group-writable parent directory that permits replacing the target file. | Directory Path |
 
 ---
