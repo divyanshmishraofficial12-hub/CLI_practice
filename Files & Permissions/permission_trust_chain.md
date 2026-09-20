@@ -19,6 +19,8 @@ During a routine security audit, a nightly vault sync process exhibited anomalou
 | **Privileged Entry** | SUID Helper | Identify the full path of the non-standard root-owned SUID helper binary. |
 | **Loaded Configuration** | Config Path | Trace the full path of the configuration file sourced by the helper. |
 <img width="1150" height="675" alt="image" src="https://github.com/user-attachments/assets/28aeb816-6ef2-4610-8c86-83d97ac0c2b1" />
+<img width="795" height="326" alt="image" src="https://github.com/user-attachments/assets/f46a3e7c-aaf4-47e6-87a1-0a9dbf969b36" />
+
 
 | **Trusted Hook** | `SYNC_HOOK` | Determine the full file path assigned to `SYNC_HOOK` within the loaded config. |
 | **Writable Group** | Group Permissions | Identify which user group possesses write permissions over the executed hook. |
