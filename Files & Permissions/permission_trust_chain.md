@@ -26,6 +26,8 @@ During a routine security audit, a nightly vault sync process exhibited anomalou
 <img width="1141" height="674" alt="image" src="https://github.com/user-attachments/assets/8b88a546-f254-4a10-a1cb-d5efd073fd46" />
 
 | **Writable Group** | Group Permissions | Identify which user group possesses write permissions over the executed hook. |
+<img width="1135" height="668" alt="image" src="https://github.com/user-attachments/assets/9a175e8e-c3a4-4642-80d8-10a900625aa4" />
+
 | **Exposed Secret** | `DB_PASSWORD` | Extract the database password exposed through the hook's environment file. |
 <img width="1153" height="665" alt="image" src="https://github.com/user-attachments/assets/09ad9c47-c189-425a-9919-4290b2c367f6" />
 
