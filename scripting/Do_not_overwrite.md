@@ -10,7 +10,7 @@ An evidence preservation copy helper designed to securely bank file copies witho
 
 #### Usage
 
-```bash
+bash
 # General syntax
 ~/bin/collect.sh <source_file> <destination_path>
 
@@ -18,3 +18,4 @@ An evidence preservation copy helper designed to securely bank file copies witho
 ~/bin/collect.sh ~/incoming/night-watch.log ~/cases/toolkit-02/preserved.log
 
 <img width="1154" height="675" alt="image" src="https://github.com/user-attachments/assets/772ef826-8945-4356-a4cb-492e2ea40dd3" />
+<img width="1159" height="679" alt="image" src="https://github.com/user-attachments/assets/382cdf9b-afad-4380-84aa-86739d4a8a22" />
