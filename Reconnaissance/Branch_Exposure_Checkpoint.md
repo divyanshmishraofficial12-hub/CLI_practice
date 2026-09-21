@@ -23,3 +23,4 @@ A newly acquired branch host at `10.0.94.154` (`branch-gateway-07`) has no trust
 <img width="1148" height="676" alt="image" src="https://github.com/user-attachments/assets/dfb7f3fa-534e-444d-8037-57d5fd4511d6" />
 <img width="791" height="178" alt="image" src="https://github.com/user-attachments/assets/6b877648-ab2e-4057-8e34-e7eac7dbd328" />
 <img width="767" height="177" alt="image" src="https://github.com/user-attachments/assets/86a76942-d74b-4367-b18e-e2fda52e6a18" />
+<img width="775" height="170" alt="image" src="https://github.com/user-attachments/assets/95f01833-c695-4542-a260-0eee866468ad" />
