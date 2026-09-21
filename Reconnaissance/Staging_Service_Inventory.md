@@ -22,3 +22,4 @@ Confirm the encrypted web listener, perform service version detection for SSH an
 
 <img width="1146" height="675" alt="image" src="https://github.com/user-attachments/assets/1c033246-c7d4-4e09-b2dc-796878a77864" />
 <img width="1140" height="670" alt="image" src="https://github.com/user-attachments/assets/0f6eff69-5f79-40f6-a917-937ede36fffc" />
+<img width="776" height="167" alt="image" src="https://github.com/user-attachments/assets/6b0fade9-0ddb-47c6-a157-33a6c5c37c20" />
