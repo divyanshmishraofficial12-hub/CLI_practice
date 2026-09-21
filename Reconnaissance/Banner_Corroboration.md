@@ -23,3 +23,4 @@ Map FTP and non-standard HTTPS web listeners on `10.0.0.11`, connect directly to
 <img width="1148" height="674" alt="image" src="https://github.com/user-attachments/assets/25cce7b9-a1c6-49bf-8241-c8b236b36b27" />
 <img width="1143" height="674" alt="image" src="https://github.com/user-attachments/assets/e9ff7894-593e-427b-9bc1-06041c6b6c7c" />
 <img width="770" height="173" alt="image" src="https://github.com/user-attachments/assets/e0712a1b-b258-4575-83d4-176c81a67eec" />
+<img width="792" height="174" alt="image" src="https://github.com/user-attachments/assets/52978891-9fc3-4375-a310-d8d6d2e7e09a" />
