@@ -20,3 +20,4 @@ A newly acquired branch host at `10.0.94.154` (`branch-gateway-07`) has no trust
 
 ## 🛠️ Step-by-Step Walkthrough
 <img width="1159" height="675" alt="image" src="https://github.com/user-attachments/assets/1bdd2e85-fcb6-4251-8549-3b11f9c88d9a" />
+<img width="1148" height="676" alt="image" src="https://github.com/user-attachments/assets/dfb7f3fa-534e-444d-8037-57d5fd4511d6" />
