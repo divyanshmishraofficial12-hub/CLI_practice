@@ -24,3 +24,4 @@ Operations approved a review of the subnet `10.0.0.16/28`. Determine which hosts
 <img width="746" height="184" alt="image" src="https://github.com/user-attachments/assets/b0312562-f8f9-4a24-908a-8539fa93c07e" />
 <img width="802" height="187" alt="image" src="https://github.com/user-attachments/assets/52197476-4e70-493a-a020-52c941664674" />
 <img width="1148" height="671" alt="image" src="https://github.com/user-attachments/assets/e116ba36-6267-4c57-a250-293c61340a41" />
+<img width="1146" height="681" alt="image" src="https://github.com/user-attachments/assets/0a2cf5f4-5457-4564-a46d-6384a32edefc" />
