@@ -19,4 +19,5 @@ An internal server at `10.0.0.2` (`srv-internal-01`) is scheduled for an exposur
 ---
 
 ## 🛠️ Step-by-Step Walkthrough
-<img width="1146" height="666" alt="image" src="https://github.com/user-attachments/assets/cf4a371c-aa1e-4db7-b325-9b1fe5235c61" />
+<img width="1151" height="677" alt="image" src="https://github.com/user-attachments/assets/81e2c38e-ccaf-442d-bda9-b79b0c262953" />
+
