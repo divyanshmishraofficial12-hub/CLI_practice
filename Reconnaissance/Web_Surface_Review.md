@@ -23,3 +23,4 @@ Inventory the public HTTP service on `10.0.0.8`, inspect the public page source,
 <img width="1143" height="663" alt="image" src="https://github.com/user-attachments/assets/ddddc539-2020-4da2-852e-43b9b02f1212" />
 <img width="1143" height="661" alt="image" src="https://github.com/user-attachments/assets/73344a88-fd35-4d13-9d6a-613a93857e0a" />
 <img width="777" height="167" alt="image" src="https://github.com/user-attachments/assets/64747fe4-f7a7-409a-8339-8a3191b7462e" />
+<img width="786" height="214" alt="image" src="https://github.com/user-attachments/assets/bb5fed14-fa5e-4771-bee2-ad1150655c15" />
