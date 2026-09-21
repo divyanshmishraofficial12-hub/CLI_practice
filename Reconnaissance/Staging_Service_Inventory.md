@@ -21,3 +21,4 @@ Confirm the encrypted web listener, perform service version detection for SSH an
 ## 🛠️ Step-by-Step Walkthrough
 
 <img width="1146" height="675" alt="image" src="https://github.com/user-attachments/assets/1c033246-c7d4-4e09-b2dc-796878a77864" />
+![Uploading image.png…]()
