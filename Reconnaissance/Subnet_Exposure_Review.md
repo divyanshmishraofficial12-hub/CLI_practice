@@ -20,3 +20,4 @@ Operations approved a review of the subnet `10.0.0.16/28`. Determine which hosts
 
 ## 🛠️ Step-by-Step Walkthrough
 <img width="1143" height="676" alt="image" src="https://github.com/user-attachments/assets/fbc8a01f-a92f-48b1-9f0c-a390da274efb" />
+<img width="1146" height="670" alt="image" src="https://github.com/user-attachments/assets/3151b34f-6162-4e03-b1a1-906f97e45f9e" />
