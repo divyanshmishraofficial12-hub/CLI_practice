@@ -20,3 +20,4 @@ Inventory the public HTTP service on `10.0.0.8`, inspect the public page source,
 
 ## 🛠️ Step-by-Step Walkthrough
 <img width="1148" height="666" alt="image" src="https://github.com/user-attachments/assets/72870ab6-dd2d-4aaa-a489-babee2c9516d" />
+<img width="1143" height="663" alt="image" src="https://github.com/user-attachments/assets/ddddc539-2020-4da2-852e-43b9b02f1212" />
