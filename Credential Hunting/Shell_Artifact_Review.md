@@ -22,3 +22,4 @@ A developer workstation at `10.0.2.10` (`dev-ws-04`) was flagged after credentia
 ## 🛠️ Step-by-Step Walkthrough
 <img width="1421" height="839" alt="image" src="https://github.com/user-attachments/assets/b4b1f1dd-f7fa-41a5-b702-f73ab208eeac" />
 <img width="1436" height="824" alt="image" src="https://github.com/user-attachments/assets/75c37afd-be0b-4c05-92ca-cbd878d99ad9" />
+<img width="1420" height="835" alt="image" src="https://github.com/user-attachments/assets/37141f29-8579-4332-9c75-615ceacd8ec2" />
