@@ -25,3 +25,4 @@ A web application server at `10.0.2.5` (`app-server-01`) is undergoing a secret-
 ## 🛠️ Step-by-Step Walkthrough
 
 <img width="1436" height="840" alt="image" src="https://github.com/user-attachments/assets/0176cc4d-a5fb-416a-85b3-d5c6ea3b5942" />
+<img width="1427" height="843" alt="image" src="https://github.com/user-attachments/assets/0e7eed77-10e4-447c-97be-06b6553cd4e3" />
