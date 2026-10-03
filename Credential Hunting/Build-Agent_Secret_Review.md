@@ -25,3 +25,4 @@ A deployment runner at `10.0.2.30` (`ci-build-01`) is undergoing a credential in
 <img width="1145" height="676" alt="image" src="https://github.com/user-attachments/assets/a8410c75-4bab-4ef8-9426-e4682093444d" />
 <img width="1143" height="674" alt="image" src="https://github.com/user-attachments/assets/e6112ef8-a0e9-4d67-bf97-b9f5066d2f0d" />
 <img width="787" height="201" alt="image" src="https://github.com/user-attachments/assets/e422f07c-1c23-4254-9193-622b5d6dba01" />
+<img width="1148" height="676" alt="image" src="https://github.com/user-attachments/assets/a5db4cb9-1109-43eb-804d-af4c6d7bd993" />
