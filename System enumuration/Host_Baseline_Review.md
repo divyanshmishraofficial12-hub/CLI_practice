@@ -22,3 +22,4 @@ The Atlas application host at `10.0.3.10` (`atlas-app-03`) has been assigned for
 ## 🛠️ Step-by-Step Walkthrough
 
 <img width="1139" height="676" alt="image" src="https://github.com/user-attachments/assets/916e4967-6a1f-4b9b-9d3c-c9f2af349665" />
+<img width="1141" height="669" alt="image" src="https://github.com/user-attachments/assets/de1377ab-5674-45aa-8e73-16b168d760e8" />
