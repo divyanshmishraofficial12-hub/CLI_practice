@@ -25,4 +25,5 @@ A monitoring stack at `10.0.2.15` (`monitor-stack`) is undergoing a credential-e
 <img width="1149" height="674" alt="image" src="https://github.com/user-attachments/assets/ea6bf5c3-40eb-47b4-8abf-974e49487149" />
 <img width="777" height="216" alt="image" src="https://github.com/user-attachments/assets/b0263f61-4f94-479d-aeb1-4aedbb755def" />
 <img width="1146" height="674" alt="image" src="https://github.com/user-attachments/assets/0548dbdb-159d-49df-a484-7f56eb331ef3" />
+<img width="1141" height="669" alt="image" src="https://github.com/user-attachments/assets/d2c7dfd4-b4e8-49e5-90b7-00645eb4989e" />
 
