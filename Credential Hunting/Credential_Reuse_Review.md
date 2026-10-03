@@ -21,3 +21,4 @@ A multi-service host at `10.0.2.20` (`multi-svc`) is being reviewed after one ad
 
 ## 🛠️ Step-by-Step Walkthrough
 
+<img width="1138" height="678" alt="image" src="https://github.com/user-attachments/assets/4ff3f79c-7a59-4421-a16f-26bb750e260e" />
