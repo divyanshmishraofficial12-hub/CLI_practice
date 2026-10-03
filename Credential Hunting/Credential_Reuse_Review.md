@@ -25,3 +25,4 @@ A multi-service host at `10.0.2.20` (`multi-svc`) is being reviewed after one ad
 <img width="1147" height="674" alt="image" src="https://github.com/user-attachments/assets/8d5dfa9a-be56-49a5-b90f-7df89b03054a" />
 <img width="1141" height="670" alt="image" src="https://github.com/user-attachments/assets/851c80e0-b17f-4499-a150-efd287bdb05a" />
 <img width="1148" height="673" alt="image" src="https://github.com/user-attachments/assets/8a651061-886d-45a8-8f70-9466671c6e79" />
+<img width="1142" height="674" alt="image" src="https://github.com/user-attachments/assets/e60e91a9-4e7a-4611-91c1-3fcd62a509a9" />
