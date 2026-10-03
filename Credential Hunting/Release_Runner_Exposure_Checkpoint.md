@@ -22,3 +22,4 @@ Release job `418` failed on a build runner at `10.0.97.74` (`orbit-runner-09`). 
 ## 🛠️ Step-by-Step Walkthrough
 
 <img width="1142" height="676" alt="image" src="https://github.com/user-attachments/assets/ea919001-934c-4f09-9e41-d5ac55225ab7" />
+<img width="1144" height="669" alt="image" src="https://github.com/user-attachments/assets/4809fb36-8ef1-410a-b60c-b4bf012ef129" />
