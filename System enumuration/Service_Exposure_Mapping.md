@@ -23,3 +23,4 @@ The invoice API is reachable, but its deployment record is incomplete. Use the a
 
 <img width="1142" height="666" alt="image" src="https://github.com/user-attachments/assets/f3677a8c-2f26-493a-9088-b7c87ddba07e" />
 <img width="1142" height="670" alt="image" src="https://github.com/user-attachments/assets/7ee7133d-f99d-4006-8cea-0f128ad778cc" />
+<img width="1141" height="674" alt="image" src="https://github.com/user-attachments/assets/d415da26-dba4-4141-9bef-c774d561a7e9" />
