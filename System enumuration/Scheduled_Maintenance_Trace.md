@@ -23,3 +23,4 @@ An archive cleanup failed overnight. Begin with the recorded failure, identify t
 
 <img width="1145" height="676" alt="image" src="https://github.com/user-attachments/assets/e334ee77-3a02-4a70-b5e2-1872dd15263c" />
 <img width="1150" height="673" alt="image" src="https://github.com/user-attachments/assets/e1ec2e81-8075-4b38-bdae-5ef4a890bf30" />
+<img width="1144" height="666" alt="image" src="https://github.com/user-attachments/assets/1e2b2d86-3bf6-4d3b-84cc-da37276dd92f" />
