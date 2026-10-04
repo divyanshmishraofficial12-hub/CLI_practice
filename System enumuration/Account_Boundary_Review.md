@@ -25,3 +25,4 @@ Offboarding review `OR-2047` contains a local UID but no username. Resolve that 
 <img width="1143" height="670" alt="image" src="https://github.com/user-attachments/assets/77311e30-b489-46a8-a7e1-9b5cdb737465" />
 <img width="1150" height="675" alt="image" src="https://github.com/user-attachments/assets/79d8fd8d-6744-4901-8484-e1515fa0bddd" />
 <img width="1142" height="671" alt="image" src="https://github.com/user-attachments/assets/d6523672-9691-4d56-9797-91364adc45de" />
+<img width="1145" height="671" alt="image" src="https://github.com/user-attachments/assets/41afd79b-5171-4721-904b-4a3aa3dcda73" />
