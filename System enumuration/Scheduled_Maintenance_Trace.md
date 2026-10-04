@@ -22,3 +22,4 @@ An archive cleanup failed overnight. Begin with the recorded failure, identify t
 ## 🛠️ Step-by-Step Walkthrough
 
 <img width="1145" height="676" alt="image" src="https://github.com/user-attachments/assets/e334ee77-3a02-4a70-b5e2-1872dd15263c" />
+<img width="1150" height="673" alt="image" src="https://github.com/user-attachments/assets/e1ec2e81-8075-4b38-bdae-5ef4a890bf30" />
